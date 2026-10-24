@@ -1,9 +1,5 @@
 # Unidad 2 - Lenguajes de Interfaz
 
-Código fuente de las prácticas de la Unidad 2, en ensamblador con Irvine32.
-
-## Datos generales
-
 - **Materia:** Lenguajes de Interfaz
 - **Unidad:** 2
 - **Alumno:** Juan Ramon Romero Adrian
